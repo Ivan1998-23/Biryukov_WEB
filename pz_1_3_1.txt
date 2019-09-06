@@ -3,3 +3,5 @@ git
 git status
 git add . 
 git commit -m "Ferst commit"
+git push
+
