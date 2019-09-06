@@ -1,3 +1,4 @@
 ﻿git --version
 git
 git status
+git add . 
