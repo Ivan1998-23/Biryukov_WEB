@@ -1,0 +1,12 @@
+﻿git branch pz_1_3_1
+git checkout pz_1_3_1
+git add pz_1_3_1.txt
+git commit -m ""
+
+git checkout master
+git merge pz_1_3_1
+git push
+git branch -D pz_1_3_1
+
+git branch Developer
+git checkout Developer
