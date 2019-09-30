@@ -1,0 +1,33 @@
+
+.body {
+	background:#DCDCDC;
+	}
+.zagolovoc {
+	font-family:cursive;
+	text-align:center;
+	}
+.text {
+	text-indent:10px;
+	margin-left:20px;
+	margin-right:20px;
+	}
+.posilanie {
+	color:#228B22;
+	text-decoration: none;
+	}
+	
+.girnii {
+		font-weight:bold;
+		}
+.cursiv {
+	font-style:Oblique;
+		}
+hr {
+		width="98%";
+		size="3px" 
+		border-color=red;
+		}
+li {
+	list-style-type:none;
+	padding-left:15px;
+	}
