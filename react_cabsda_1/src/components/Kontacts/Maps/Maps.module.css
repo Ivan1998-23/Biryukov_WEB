@@ -1,0 +1,26 @@
+.zagolovok{
+    font-size: 23px;
+    text-align: center;
+    word-spacing: 13px;
+    font-weight: bolder;   
+    font-family: MS PMincho, Monotype Corsiva,  Bodoni MT ;    
+    color: #3b5d07;
+    margin: 10px;
+}
+#map {
+    margin-left: 15px;
+    margin-bottom: 30px;
+    height: 800px;
+    width: 800px;
+  }
+  /* Optional: Makes the sample page fill the window. */
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0
+}
+main {
+    
+    height: 800px;
+    width: 800px;
+}

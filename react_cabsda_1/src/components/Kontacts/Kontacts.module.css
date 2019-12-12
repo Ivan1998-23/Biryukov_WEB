@@ -1,0 +1,23 @@
+.zagolovok{
+    font-size: 23px;
+    text-align: center;
+    word-spacing: 13px;
+    font-weight: bolder;   
+    font-family: MS PMincho, Monotype Corsiva,  Bodoni MT ;    
+    color: #3b5d07;
+    margin: 10px;
+}
+table {
+    margin: 0 40px 0 40px;
+}
+table th {
+    display: flex;
+    border:10px;
+    justify-content: flex-start;
+}
+
+.kontact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

@@ -1,0 +1,18 @@
+.futer{
+    display: block;
+    text-align: auto    ;
+    background-image: url(fon.jpg);
+    background-color:#237126;
+    grid-area: e;
+}
+.inf {
+    display: block;
+    color:#041b06;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size-adjust: 100%;
+    line-height: 1.2;
+    margin: 0 0 0 20px;
+    padding: 0;
+    font-weight: bolder;
+}

@@ -1,0 +1,27 @@
+.golovna{
+  color:#1d140d;
+  font-size: 20px;
+  margin: 10px -5px 10px 0px;
+}
+ a.activeLink{
+  padding-left:20px;
+  font-weight: 700;
+  font-size:19pt;
+  font-family: Monotype Corsiva;
+  color: #074e09;
+  display: block;
+  margin: 10px 5px 1px 5px;
+  background-image: url(./menui-2.png);
+  background-position: top right;
+}
+.nav {
+  background-color: #b28252;
+  background: linear-gradient(to RIGHT,#239619,#3da433,#59b24f,#7cc473,#a6da9c);
+}
+a {
+  text-decoration: none; 
+  color:#1d140d;
+}
+.sil {
+  margin: 20px;
+}

@@ -1,0 +1,27 @@
+.header{
+    margin-top: 1px;
+    background-image: url(der.jpg);
+    background-repeat: repeat;
+    grid-area: h;
+}
+.nazva {
+    font-size: 40px;
+    text-align: center;
+    word-spacing: 13px;
+    font-weight: bolder;   
+    font-family: Monotype Corsiva;
+    color: #9dff01;
+    text-shadow:#136716 -5px -5px 6px;
+    margin: 10px;
+}
+.inf {
+    display: block;
+    color:#fff;
+    font-size: 17px;
+    font-family: Andalus;
+    font-size-adjust: 100%;
+    line-height: 1.2;
+    margin: 20px 0 0 20px;
+    padding: 0;
+    font-weight: bolder;
+}

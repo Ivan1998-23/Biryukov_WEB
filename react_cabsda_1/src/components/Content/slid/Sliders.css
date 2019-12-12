@@ -1,0 +1,11 @@
+.containerSlide {
+  height:250px;
+  width: 800px;
+  left: 50px;
+  padding:  10px 10px 30px 10px;
+  margin: auto;
+}
+.containerSlide img {
+  height: 250px;
+  width:800px;
+}
